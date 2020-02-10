@@ -12,6 +12,8 @@
 
 - Szczepan
 
+- Jakub Marek
+
 ## Status
 
 ## Specifikasjoner
